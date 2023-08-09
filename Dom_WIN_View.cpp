@@ -1,0 +1,7 @@
+//ProjetoDOMINO - Projeto  Domino (view.h)
+//Carlos Gabriel Gouveia
+//Diogo Casari del Pino
+//Gustavo Nascimento Zanatta
+//Juan Fernando Coucolis Isano
+
+#include "Dom_WIN_view.h"
