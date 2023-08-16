@@ -4,8 +4,8 @@
 //Gustavo Nascimento Zanatta
 //Juan Fernando Coucolis Isano
 
-#include "Dom_WIN_Model.cpp"
-#include"Dom_WIN_Controller.cpp"
+#include "DOM-WIN_Model.cpp"
+#include"DOM-WIN_Controller.cpp"
 
 int main()
 {
